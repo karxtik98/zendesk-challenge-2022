@@ -1,0 +1,15 @@
+.status {
+  background-color: #e34f32;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  font-size: 0.625rem;
+  width: 1rem;
+  height: 1rem;
+  text-transform: capitalize;
+}
+
+.status div {
+}
